@@ -2,9 +2,6 @@
 <h3 align="center">A passionate MEAN and MERN Stack developer from Pakistan</h3>
 
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devtayyab" alt="devtayyab" /></a> </p>
-
 - 🔭 I’m currently working on [SMIELS](https://demo.smiels.com/)
 
 - 🌱 I’m currently learning **AWS, Solidity, Smart Contracts**
@@ -15,7 +12,7 @@
 
 - 💬 Ask me about **REACT ANGULAR NODE JAVASCRIPT**
 
-- 📫 How to reach me **m.tayyab.gcuf@gmail.com**
+- 📫 How to reach me **m.tayyab.@forenax.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
