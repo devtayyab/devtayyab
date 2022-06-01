@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **REACT ANGULAR NODE JAVASCRIPT**
 
-- 📫 How to reach me **m.tayyab@forenax.com**
+- 📫 How to reach me **m.tayyab.gcuf@gmail.com**
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devtayyab&show_icons=true&locale=en&layout=compact" alt="devtayyab" /></p>
