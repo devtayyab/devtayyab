@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Tayyab</h1>
-<h3 align="center">A passionate JavaScript developer from Pakistan</h3>
+<h3 align="center">A passionate Full Stack developer from Pakistan</h3>
 
 
 - 🔭 I’m currently working on [SMIELS](https://demo.smiels.com/)
