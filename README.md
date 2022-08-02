@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Blockchain Technology**
 
-- 👨‍💻 All of my projects are available at [https://github.com/devtayyab](https://github.com/devtayyab)
+- 👨‍💻 All of my projects are available at [https://github.com/devtayyab](https://github.com/devtayyab?tab=repositories)
 
 - 💬 Ask me about **REACT ANGULAR NODE JAVASCRIPT**
 
