@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack developer from Pakistan</h3>
 
 
-- 🔭 I’m currently working on [SMIELS](https://demo.smiels.com/)
+- 🔭 I’m currently working on [APPLA](https://appla.cy/)
 
 - 🌱 I’m currently learning **AWS, Solidity, Smart Contracts**
 
