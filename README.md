@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/devtayyab](https://github.com/devtayyab?tab=repositories)
 
-- 💬 Ask me about **REACT ANGULAR NODE MongoDB**
+- 💬 Ask me about **REACT ANGULAR NODE MongoDB AWS**
 
 - 📫 How to reach me **m.tayyab.gcuf@gmail.com**
 
