@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Tayyab</h1>
 <h3 align="center">A passionate Lead developer from Pakistan</h3>
 
-
-- 🔭 I’m currently working on [APPLA](https://appla.cy/)
-
 - 🌱 I’m currently learning **AWS, Solidity, Smart Contracts**
 
 - 👯 I’m looking to collaborate on **Blockchain Technology**
