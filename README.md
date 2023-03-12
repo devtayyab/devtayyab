@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/devtayyab](https://github.com/devtayyab?tab=repositories)
 
-- 💬 Ask me about **REACT ANGULAR NODE MongoDB AWS**
+- 💬 Ask me about **REACT ANGULAR NODE MongoDB AWS FireBase**
 
 - 📫 How to reach me **m.tayyab.gcuf@gmail.com**
 
