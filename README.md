@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Tayyab</h1>
-<h3 align="center">Full Stack  developer</h3>
+<h3 align="center">Full Stack Javascript  developer</h3>
 
 - 🌱 I’m currently learning **AWS, Solidity, Smart Contracts**
 
