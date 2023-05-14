@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **AWS, Solidity, Smart Contracts**
 
-- 👯 I’m looking to collaborate on **Blockchain Technology**
+- 👯 I’m looking to collaborate on **Blockchain  & Open AI Technology**
 
 - 👨‍💻 All of my projects are available at [https://github.com/devtayyab](https://github.com/devtayyab?tab=repositories)
 
