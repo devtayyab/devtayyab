@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Tayyab</h1>
-<h3 align="center">Lead Software Engineer</h3>
+<h3 align="center">Lead Engineer</h3>
 
 <p align="left">
 <a href="https://github.com/ryo-ma/github-profile-trophy">
