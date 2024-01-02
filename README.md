@@ -17,7 +17,6 @@
 
 - 📫 How to reach me **devtayyabb@gmail.com** 
 
-- 💻 Hire me on [https://www.upwork.com/freelancers/~016bfa2de6c4f5ad04)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
