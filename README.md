@@ -8,14 +8,15 @@
  </p>
 
 - 🔭 I’m currently working on [](https://www.veve.com/)
-
-- 🌱 I’m currently learning **Management,Founding a Startup**
-
-- 👯 I’m looking to collaborate on **Blockchain Technology, Fintech**
-
-- 👨‍💻 All of my projects are available at [https://github.com/devtayyab](https://github.com/devtayyab)
-
-- 📫 How to reach me **devtayyabb@gmail.com** 
+- :rocket: I build scalable distributed systems using MicroServices with **NodeJS** and **Kubernetes** and bridge customers with Tech
+- ⚙️ I daily work with: **NodeJS**, **Golang**, **MicroServices**, **ReactJS**, **PostgreSQL**, **Kubernetes**, **Kafka**, **RabbitMQ**, **AWS**, **GitHub** :heart:
+- :fire: As Senior Engineer, I Code, Review PRs, attend Architecture meetings and write Docs.
+- 🌍 I'm mostly active within the JavaScript Community
+- 🌱 Spending most of the spare time on Open Source :heart:
+- :mortar_board: I graduated with Software Engineering degree
+- 💬 Ping me about a cool open source project you want to discuss
+- ⚡️ Fun fact: When I'm not coding, I do videography and travel videos ;)
+- 📫 How to reach me **m.tayyab.gcuf@gmail.com** 
 
 
 <h3 align="left">Connect with me:</h3>
