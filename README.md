@@ -7,7 +7,7 @@
 </a>
  </p>
 
-- 🔭 I’m currently working on [](https://www.veve.com/)
+- 🔭 I’m currently working on [Veve](https://www.veve.com/)
 - :rocket: I build scalable distributed systems using MicroServices with **NodeJS** and **Kubernetes** and bridge customers with Tech
 - ⚙️ I daily work with: **NodeJS**, **Golang**, **MicroServices**, **ReactJS**, **PostgreSQL**, **Kubernetes**, **Kafka**, **RabbitMQ**, **AWS**, **GitHub** :heart:
 - :fire: As Senior Engineer, I Code, Review PRs, attend Architecture meetings and write Docs.
